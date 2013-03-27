@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "72238F9A170180A3009137A9"
-               BuildableName = "Portfolio.app"
-               BlueprintName = "Portfolio"
-               ReferencedContainer = "container:Portfolio.xcodeproj">
+               BlueprintIdentifier = "723EC41D1702D990008BAF60"
+               BuildableName = "myapps.app"
+               BlueprintName = "myapps"
+               ReferencedContainer = "container:myapps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "72238F9A170180A3009137A9"
-            BuildableName = "Portfolio.app"
-            BlueprintName = "Portfolio"
-            ReferencedContainer = "container:Portfolio.xcodeproj">
+            BlueprintIdentifier = "723EC41D1702D990008BAF60"
+            BuildableName = "myapps.app"
+            BlueprintName = "myapps"
+            ReferencedContainer = "container:myapps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "72238F9A170180A3009137A9"
-            BuildableName = "Portfolio.app"
-            BlueprintName = "Portfolio"
-            ReferencedContainer = "container:Portfolio.xcodeproj">
+            BlueprintIdentifier = "723EC41D1702D990008BAF60"
+            BuildableName = "myapps.app"
+            BlueprintName = "myapps"
+            ReferencedContainer = "container:myapps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "72238F9A170180A3009137A9"
-            BuildableName = "Portfolio.app"
-            BlueprintName = "Portfolio"
-            ReferencedContainer = "container:Portfolio.xcodeproj">
+            BlueprintIdentifier = "723EC41D1702D990008BAF60"
+            BuildableName = "myapps.app"
+            BlueprintName = "myapps"
+            ReferencedContainer = "container:myapps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Portfolio
+//  myapps
 //
-//  Created by Innoppl technologies on 26/03/13.
+//  Created by Innoppl technologies on 27/03/13.
 //  Copyright (c) 2013 Innoppl technologies. All rights reserved.
 //
 

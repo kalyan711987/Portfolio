@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Portfolio.xcscheme</key>
+		<key>myapps.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>72238F9A170180A3009137A9</key>
+		<key>723EC41D1702D990008BAF60</key>
 		<dict>
 			<key>primary</key>
 			<true/>
